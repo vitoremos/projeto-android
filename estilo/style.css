@@ -76,14 +76,14 @@ header > h1 {
 header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    margin-bottom: 30px;
+    
     max-width: 600px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
     color: white;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.644);
-    
+    padding-bottom: 45px;
 }
 
 nav{
